@@ -115,7 +115,7 @@ function App() {
                                     165.547 130.807 187.559 100.226 186.353C69.6454 185.297 41.0228 161.023 21.7403 
                                     129.362C2.45775 97.8511 -7.48481 59.1033 6.67581 34.5279C20.9871 10.1032 59.7028 
                                     -0.149132 97.9666 0.00163737C136.23 0.303176 174.193 10.857 190.312 36.4879Z" />
-                    <image className="home__blob-img" x="" xlinkHref="packages/images/FAUZAN_BEBAS.jpg" />
+                    <image className="home__blob-img" x="" xlinkHref="./packages/images/FAUZAN_BEBAS.jpg" />
                   </g>
                 </svg>
               </div>
@@ -142,7 +142,7 @@ function App() {
           <h2 className="section__title">About Me</h2>
           <span className="section__subtitle">My Introduction</span>
           <div className="about__container container grid">
-            <img alt="" className="about__img" src="packages/images/Pass Foto Biru.png" />
+            <img alt="" className="about__img" src="./packages/images/Pass Foto Biru.png" />
             <div className="about__data">
               <p className="about__description">
                 Ui/Ux Design, Web &amp; android Developer, with extensive knowledge and years of experience,
@@ -163,7 +163,7 @@ function App() {
                 </div>
               </div>
               <div className="about__buttons">
-                <a className="button button--flex" download="" href="packages/pdf/CV Fauzan .pdf">
+                <a className="button button--flex" download="" href="./packages/pdf/CV Fauzan .pdf">
                   Download CV<i className="uil uil-download-alt button__icon"></i>
                 </a>
               </div>
@@ -545,7 +545,7 @@ function App() {
           </div>
         </section>
         <div className="prt" style={{ marginTop: "50px" }}>
-          <a className="button button--flex" download="" href="packages/pdf/CV Fauzan .pdf">
+          <a className="button button--flex" download="" href="./packages/pdf/CV Fauzan .pdf">
             Download Portfolio<i className="uil uil-download-alt button__icon"></i>
           </a>
         </div>
