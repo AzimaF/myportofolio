@@ -1,0 +1,24 @@
+{
+  "name": "fauzan_web-portofolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/core": "^7.29.0",
+    "@babel/parser": "^7.29.3",
+    "@vitejs/plugin-react": "^4.7.0",
+    "react": "^19.2.6",
+    "react-dom": "^19.2.6",
+    "scrollreveal": "^4.0.9",
+    "vite": "^5.4.21"
+  }
+}

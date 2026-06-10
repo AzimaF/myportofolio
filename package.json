@@ -1,0 +1,9 @@
+{
+  "name": "fauzan_web-portofolio-root",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "npm run dev --prefix \"Fauzan_Web Portofolio\"",
+    "build": "npm run build --prefix \"Fauzan_Web Portofolio\"",
+    "preview": "npm run preview --prefix \"Fauzan_Web Portofolio\""
+  }
+}
